@@ -32,7 +32,7 @@
     --color-background-light: rgb(230, 230, 230); /* 밝은 배경색 (회색) */
     
     /* RGB 버전 (알파 투명도 사용 시) */
-    --color-primary-rgb: 248, 255, 80;
+    --color-primary-rgb: 2, 200, 95;
     --color-link-rgb: 0, 123, 255;   
     --color-text-primary-rgb: 0, 0, 0;
     --color-background-light-rgb: 230, 230, 230;
